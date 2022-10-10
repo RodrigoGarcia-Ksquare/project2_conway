@@ -23,5 +23,5 @@ Welcome! This repo contains the code for the Conmay's Game of Life proyect. Here
 
 # Live demo
 
-You can try for yourself the game in the [live demo](PUT/THE/URL/HERE)
+You can try for yourself the game in the [live demo](https://rodrigogarcia-ksquare.github.io/project2_conway/)
 
